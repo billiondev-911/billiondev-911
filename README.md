@@ -31,32 +31,41 @@ Responsibilities :
 Project Description
 
 1. Architecture
-MVC Pattern: Utilize the Model-View-Controller (MVC) architectural pattern provided by Laravel to organize the codebase.
-RESTful API: Create APIs for frontend-backend communication, especially if there is a need for a mobile app.
+
+   MVC Pattern: Utilize the Model-View-Controller (MVC) architectural pattern provided by Laravel to organize the codebase.
+   RESTful API: Create APIs for frontend-backend communication, especially if there is a need for a mobile app.
+
 2. Frontend
 
-HTML5: Structure the web pages with semantic elements.
-CSS3: Style the web pages, implementing responsive design with media queries.
-Bootstrap: Utilize responsive components to ensure mobile compatibility and ease of layout.
-JavaScript & jQuery: Enhance user interactions (e.g., form validations, dynamic content loading, AJAX requests).
+   HTML5: Structure the web pages with semantic elements.
+   CSS3: Style the web pages, implementing responsive design with media queries.
+   Bootstrap: Utilize responsive components to ensure mobile compatibility and ease of layout.
+   JavaScript & jQuery: Enhance user interactions (e.g., form validations, dynamic content loading, AJAX requests).
 
 3. Backend
-Framework: Laravel (PHP Framework for back-end logic)
-
-“Artisan” for command-line tools.
-Routing for defining application routes.
-Middleware to handle authentication, logging, and other tasks.
-Services for applications and business logic.
-Database: MySQL
+4. 
+   Framework: Laravel (PHP Framework for back-end logic)
+   
+      “Artisan” for command-line tools.
+      Routing for defining application routes.
+      Middleware to handle authentication, logging, and other tasks.
+      Services for applications and business logic.
+   
+   Database: MySQL
 
 
 
 ![Car rental](https://github.com/user-attachments/assets/44c89d9f-4173-4d79-9cd1-216e14314f07)
 
 Responsibilities:
+
 • Developed custom apps for product listings and order management using Node.js, Next.js, GraphQL
+
 • Customizing and developing templates and layouts to meet client requirements.
+
 • Implementing and configuring Ecommerce apps and extensions to enhance site functionality.
+
 • Ensuring websites are responsive and optimized for various devices and screen sizes.
+
 • Writing clean and efficient HTML, CSS, and JavaScript code to create visually appealing and interactive user interfaces.
 
