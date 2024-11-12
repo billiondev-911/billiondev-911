@@ -43,7 +43,7 @@ Project Description
    JavaScript & jQuery: Enhance user interactions (e.g., form validations, dynamic content loading, AJAX requests).
 
 3. Backend
-4. 
+
    Framework: Laravel (PHP Framework for back-end logic)
    
       “Artisan” for command-line tools.
