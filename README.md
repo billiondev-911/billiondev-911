@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 Western Wedding
 
 Responsibilities :
+
   -Developed new React.js components to improve user experience.
   -Implementing New RESTful API endpoints to enhance application functionality.
   -Creating and Refactoring Database Entities with TypeORM
