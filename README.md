@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billiondev-911
 - 👀 I’m interested in IT technology.
 - 💞️ I’m looking to collaborate on IT company.
-- 📫 How to reach me --Telegram : cryptoraise97, 
+- 📫 How to reach me --Telegram : billion_evegen, 
 - 😄 Pronouns: Billion
 - ⚡ Fun fact: Try count from 1 to 100000000
 
